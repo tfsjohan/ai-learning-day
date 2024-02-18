@@ -76,6 +76,8 @@ If I answer "New game", reset the score and suggest a new set of categories.
 ## Before the game begins
 Suggest 4 categories that I can choose from.
 
+Before giving me the first question, wait for me to say I'm ready to start.
+
 ## Examples
 A: The capital of France
 Q: What is Paris?
